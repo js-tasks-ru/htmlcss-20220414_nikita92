@@ -25,6 +25,9 @@
     --primary: var(--blue);
     --secondary: var(--purple);
 }
+.footer {
+    background-color: white;
+}
 
 * {
     font-family: 'Roboto', sans-serif;

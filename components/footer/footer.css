@@ -1,5 +1,4 @@
 .footer {
-    background-color: white;
     height: 200px;
 }
 
@@ -16,17 +15,8 @@
     font-style: normal;
     font-weight: 500;
     font-size: 38px;
-    line-height: 48px;
     color: #212429;
-    margin: 0 auto;
-}
-
-.footer__container2 {
-    background-color: white;
-    display: flex;
-    justify-content: center; 
-    max-width: 1110px;
-    margin: 0 auto;
+    text-align: center;
 }
 
 .footer__text {
@@ -38,4 +28,5 @@
     text-align: center;
     color: #212429;
     margin: 0 auto;
+    max-width: 640px;
 }
