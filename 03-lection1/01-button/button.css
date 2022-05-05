@@ -24,27 +24,3 @@
 
 .button_alternate {background-color: var(--white); color: var(--black); border: 1px solid var(--grey-3);}
 .button_alternate:hover {border-color: #212429;}
-
-.button_secondary {
-    background: var(--purple);
-    color: var(--white);
-}
-
-.button_secondary:hover {
-    background: var(--purple-2);
-    color: var(--white);
-    cursor: pointer;
-}
-
-.button_alternate {
-    background: var(--white);
-    color: var(--grey-4);
-    border: 1px solid var(--grey-3);
-}
-
-.button_alternate:hover {
-    background: var(--white);
-    color: var(--grey-4);
-    border: 1px solid var(--black);
-    cursor: pointer;
-}
